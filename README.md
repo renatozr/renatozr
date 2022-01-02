@@ -10,7 +10,8 @@
   </a>
 </div>
 
-<h3>Hard skills:</h3>
+<br>
+
 <div style="display: inline_block" align="center">
   <img align="center" alt="react-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="redux-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
@@ -18,7 +19,7 @@
   <img align="center" alt="html-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="css-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="js-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="right" alt="dev-gif" height="150" style="border-radius:50px;" src="https://camo.githubusercontent.com/4a0108f2ec02e917d4a08fc28aeefb4b021cdaa4db70ffc0e08fe98e01ada436/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6949716d4d3574546a6d704f42396d70626e2f67697068792e676966">
+  <img align="right" alt="dev-gif" height="150" src="https://camo.githubusercontent.com/4a0108f2ec02e917d4a08fc28aeefb4b021cdaa4db70ffc0e08fe98e01ada436/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6949716d4d3574546a6d704f42396d70626e2f67697068792e676966">
 </div>
 
 ##
