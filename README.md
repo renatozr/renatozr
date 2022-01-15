@@ -5,8 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/renatozr">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=renatozr&count_private=true&show_icons=true&theme=react" />
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatozr&layout=compact&langs_count=7&theme=react" />
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=renatozr&count_private=true&show_icons=true&theme=react" />
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatozr&layout=compact&langs_count=7&theme=react" />
   </a>
 </div>
 
@@ -14,13 +14,13 @@
 <br>
 
 <div align="center">
-  <img align="center" alt="git-icon" width="50" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/git/git-original.svg">
-  <img align="center" alt="html-icon" width="50" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/html5/html5-original.svg">
-  <img align="center" alt="css-icon" width="50" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/css3/css3-original.svg">
-  <img align="center" alt="js-icon" width="50" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/javascript/javascript-original.svg">
-  <img align="center" alt="react-icon" width="50" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/react/react-original.svg">
-  <img align="center" alt="redux-icon" width="50" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/redux/redux-original.svg">
-  <img align="center" alt="jest-icon" width="50" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/jest/jest-plain.svg">
+  <img alt="git-icon" width="50" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/git/git-original.svg">
+  <img alt="html-icon" width="50" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/html5/html5-original.svg">
+  <img alt="css-icon" width="50" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/css3/css3-original.svg">
+  <img alt="js-icon" width="50" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/javascript/javascript-original.svg">
+  <img alt="react-icon" width="50" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/react/react-original.svg">
+  <img alt="redux-icon" width="50" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/redux/redux-original.svg">
+  <img alt="jest-icon" width="50" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/jest/jest-plain.svg">
 </div>
 
 ##
