@@ -1,32 +1,31 @@
 ## Olá, sinta-se à vontade. ✌️
-### Aqui é onde eu publico minhas façanhas tecnológicas. 🤓
 
 <br>
 
 <div align="center">
   <a href="https://github.com/renatozr">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renatozr&count_private=true&show_icons=true&theme=react" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatozr&layout=compact&langs_count=7&theme=react" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=renatozr&count_private=true&show_icons=true&theme=react" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatozr&layout=compact&langs_count=7&theme=react" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <h3>Tecnologias:</h3>
-  <img alt="git-icon" width="50" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/git/git-original.svg">
-  <img alt="html-icon" width="50" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/html5/html5-original.svg">
-  <img alt="css-icon" width="50" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/css3/css3-original.svg">
-  <img alt="js-icon" width="50" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/javascript/javascript-original.svg">
-  <img alt="react-icon" width="50" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/react/react-original.svg">
-  <img alt="redux-icon" width="50" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/redux/redux-original.svg">
-  <img alt="jest-icon" width="50" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/jest/jest-plain.svg">
+  <h3>Techs:</h3>
+  <img alt="git-icon" width="40" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/git/git-original.svg">
+  <img alt="html-icon" width="40" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/html5/html5-original.svg">
+  <img alt="css-icon" width="40" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/css3/css3-original.svg">
+  <img alt="js-icon" width="40" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/javascript/javascript-original.svg">
+  <img alt="react-icon" width="40" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/react/react-original.svg">
+  <img alt="redux-icon" width="40" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/redux/redux-original.svg">
+  <img alt="jest-icon" width="40" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/jest/jest-plain.svg">
 </div>
 
 ##
 
 <div align="center">
-  <h3>Estou em:</h3>
+  <h3>Contatos:</h3>
   <a href="https://www.linkedin.com/in/renatozr11/" target="_blank"><img width="130" height="35" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:renatozr07@gmail.com" target="_blank"><img width="130" height="35" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.codewars.com/users/renatozr" target="_blank"><img width="130" height="35" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"></a>
