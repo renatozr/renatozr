@@ -9,8 +9,6 @@
   </a>
 </div>
 
-<br>
-
 <div align="center">
   <h3>Techs:</h3>
   <img alt="git-icon" width="40" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/git/git-original.svg">
