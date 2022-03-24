@@ -2,14 +2,14 @@
 
 <br>
 
-<div align="center">
+<div>
   <a href="https://github.com/renatozr">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renatozr&count_private=true&show_icons=true&theme=react" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatozr&layout=compact&langs_count=7&theme=react" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=renatozr&count_private=true&show_icons=true&theme=react" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatozr&layout=compact&langs_count=7&theme=react" />
   </a>
 </div>
 
-<div align="center">
+<div>
   <span>
     <h3>Front-end:</h3>
     <img alt="html" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -34,7 +34,7 @@
 
 ##
 
-<div align="center">
+<div>
   <h3>Reach me:</h3>
   <a href="https://www.linkedin.com/in/renatozr11/" target="_blank"><img width="130" height="35" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:renatozr07@gmail.com" target="_blank"><img width="130" height="35" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
