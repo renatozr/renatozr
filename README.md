@@ -11,7 +11,7 @@
 
 <div align="center">
   <span>
-    <h3>Front-end:</h3>
+    <h3>Front-end Tools:</h3>
     <img alt="html" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
     <img alt="css" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
     <img alt="js" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
@@ -21,7 +21,7 @@
     <img alt="jest" src="https://img.shields.io/badge/-jest-%23C2132?style=for-the-badge&logo=jest&logoColor=white">
   </span>
   <span>
-    <h3>Back-end:</h3>
+    <h3>Back-end Tools:</h3>
       <img alt="shell" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
       <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
       <img alt="docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
