@@ -1,4 +1,4 @@
-## Welcome! ✌️
+<h2 align="center"> Welcome! ✌️ </h2>
 
 <br>
 
@@ -43,5 +43,7 @@
 
 <br>
 
-- 🌱 Currently studying full stack development at @betrybe.
-- 👯 I’m looking to collaborate on open source projects.
+<div align="center">
+  <div>- 🌱 Currently studying full stack development at @betrybe.</div>
+  <div>- 👯 I’m looking to collaborate on open source projects.</div>
+</div>
