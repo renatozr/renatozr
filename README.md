@@ -1,4 +1,4 @@
-<h2 align="center"> Welcome! ✌️ </h2>
+<h1 align="center"> Welcome! ✌️ </h1>
 
 <br>
 
