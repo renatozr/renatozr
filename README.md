@@ -3,8 +3,7 @@
 - :seedling: Atualmente estudando desenvolvimento Full-Stack na @betrybe
 - :eyes: Procurando colaborar em algum projeto open source
 - :headphones: Curto desenvolver escutando Lo-fi :notes:
-- :bicyclist: No meu tempo livre gosto pedalar até a praia :palm_tree:
-
+- :bicyclist: Nos fins de semana gosto de pedalar até a praia :palm_tree:
 
 <br />
 
