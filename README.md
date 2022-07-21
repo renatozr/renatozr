@@ -1,4 +1,10 @@
-<h1> Olá! 👋 </h1>
+<h1> Olá! :wave: </h1>
+
+- :seedling: Atualmente estudando desenvolvimento Full-Stack na @betrybe
+- :eyes: Procurando colaborar em algum projeto open source
+- :headphones: Curto desenvolver escutando Lo-fi :notes:
+- :bicyclist: No meu tempo livre gosto pedalar até a praia :palm_tree:
+
 
 <br />
 
@@ -9,17 +15,15 @@
   </a>
 </div>
 
-<br />
-
 <div>
   <h2>Tecnologias</h2>
   <span>
     <h3>Front-end:</h3>
-    <img alt="html" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-    <img alt="css" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
     <img alt="js" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
     <img alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
     <img alt="redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
+    <img alt="html" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+    <img alt="css" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   </span>
   <span>
     <h3>Back-end:</h3>
@@ -30,8 +34,6 @@
     <img alt="mongo" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
     <img alt="typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
     <img alt="shell" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-    <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-    <img alt="docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
   </span>
   <span>
     <h3>Testes:</h3>
@@ -41,7 +43,9 @@
     <img alt="jest" src="https://img.shields.io/badge/-jest-%23C2132?style=for-the-badge&logo=jest&logoColor=white" />
   </span>
   <span>
-    <h3>Deploy:</h3>
+    <h3>Ferramentas:</h3>
+    <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+    <img alt="docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
     <img alt="heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />
   </span>
 </div>
@@ -53,11 +57,4 @@
   <a href="https://www.linkedin.com/in/renatozr11/" target="_blank"><img width="130" height="35" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:renatozr07@gmail.com" target="_blank"><img width="130" height="35" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.codewars.com/users/renatozr" target="_blank"><img width="130" height="35" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"></a>
-</div>
-
-<br />
-
-<div>
-  <div>- 🌱 Atualmente estudando desenvolvimento Full-Stack na @betrybe.</div>
-  <div>- 👯 Ansioso para começar a colaborar com projetos open source.</div>
 </div>
