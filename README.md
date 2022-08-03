@@ -1,9 +1,9 @@
 <h1> Olá! :wave: </h1>
 
-- :seedling: Atualmente estudando desenvolvimento Full-Stack na @betrybe
+- :books: Atualmente estudando desenvolvimento Full-Stack na @betrybe
 - :eyes: Procurando colaborar em algum projeto open source
-- :headphones: Curto desenvolver escutando Lo-fi :notes:
-- :bicyclist: Nos fins de semana gosto de pedalar até a praia :palm_tree:
+- :headphones: Gosto de programar escutando lo-fi ou ruído branco
+- :seedling: Criando o hábito de meditar todos os dias
 
 <br />
 
