@@ -38,6 +38,7 @@
   <img alt="jest" src="https://img.shields.io/badge/-jest-%23C2132?style=for-the-badge&logo=jest&logoColor=white" />
   <br />
   <br />
+  <img alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
