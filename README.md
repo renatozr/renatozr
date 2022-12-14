@@ -1,6 +1,6 @@
 <h1> Olá! :wave: </h1>
 
-- :books: Atualmente estudando desenvolvimento Full Stack na @betrybe
+- :books: Formado em desenvolvimento Full Stack na @betrybe
 - :eyes: Procurando colaborar em algum projeto open source
 - :headphones: Gosto de programar escutando lo-fi ou ruído branco
 - :seedling: Criando o hábito de meditar todos os dias
