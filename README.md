@@ -46,7 +46,7 @@
 ##
 
 <div>
-  <h3>Me dê um olá em:</h3>
+  <h3>Me dê um olá no:</h3>
   <a href="https://www.linkedin.com/in/renatozr11/" target="_blank"><img width="130" height="35" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:renatozr07@gmail.com" target="_blank"><img width="130" height="35" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.codewars.com/users/renatozr" target="_blank"><img width="130" height="35" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"></a>
