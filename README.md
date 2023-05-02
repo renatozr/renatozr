@@ -2,7 +2,7 @@
 
 - :books: Formado em Desenvolvimento Web na @betrybe
 - :eyes: Procurando colaborar em algum projeto open source
-- :headphones: Gosto de programar escutando lo-fi ou ruído branco
+- :headphones: Gosto de programar escutando ruído branco
 - :seedling: Criando o hábito de meditar todos os dias
 
 <br />
