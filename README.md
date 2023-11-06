@@ -2,7 +2,7 @@
 
 - :computer: Formado em Desenvolvimento Web na <a href="https://github.com/betrybe" target="_blank">@betrybe</a>
 - :books: Cursando Análise Desenvolvimento de Sistemas no <a href="https://www.infnet.edu.br/infnet/home/" target="_blank">Instituto Infnet</a>
-- :eyes: Procurando aprender todos os dias
+- :brain: Aprendendo enquanto crio
 - :headphones: Programando e ouvindo Lo-Fi
 - :seedling: Curioso por natureza
 
