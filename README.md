@@ -1,53 +1,51 @@
-<h1> Olá! :wave: </h1>
-<h3>Sobre mim</h3>
+![](https://komarev.com/ghpvc/?username=renatozr&color=006bed)
 
-- :computer: Formado em Desenvolvimento Web na <a href="https://github.com/betrybe" target="_blank">@betrybe</a>
-- :books: Cursando Análise Desenvolvimento de Sistemas no <a href="https://www.infnet.edu.br/infnet/home/" target="_blank">Instituto Infnet</a>
-- :brain: Aprendendo enquanto crio
-- :headphones: Programando e ouvindo Lo-Fi
-- :seedling: Curioso por natureza
+## About me
 
-<br />
+- 🤔 Exploring new technologies and developing software solutions.
+- 🎓 Studying Systems Analysis and Development at Instituto Infnet.<!-- - 💼 Working as a Junior Developer at Mercado Livre. -->
+- 🌱 Learning more about Next.js and Nest.js.
 
-<div>
-  <a href="https://github.com/renatozr">
-<!--     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=renatozr&count_private=true&show_icons=true&theme=react" /> -->
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatozr&layout=compact&langs_count=7&theme=react" />
-  </a>
-</div>
+## My Skills
 
-<div>
-  <h2>Experiência com</h2>
-  <img alt="js" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img alt="typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img alt="redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
-  <img alt="html" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="css" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <br />
-  <br />
-  <img alt="node" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img alt="express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-  <img alt="mysql" src="https://img.shields.io/badge/mysql-00000f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="sequelize" src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue" />
-  <img alt="mongo" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img alt="mongoose" src="https://img.shields.io/badge/mongoose-880000?style=for-the-badge&logo=mongoose" />
-  <br />
-  <br />
-  <img alt="mocha" src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white" />
-  <img alt="chai" src="https://img.shields.io/badge/chai.js-f8ead5?style=for-the-badge&logo=chai&logoColor=red" />
-  <img alt="sinon" src="https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon" />
-  <img alt="jest" src="https://img.shields.io/badge/-jest-%23C2132?style=for-the-badge&logo=jest&logoColor=white" />
-  <br />
-  <br />
-  <img alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-</div>
+**Development**
 
-<div>
-  <h2>Contatos</h2>
-  <a href="https://www.linkedin.com/in/renatozr11/" target="_blank"><img width="130" height="35" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:renatozr07@gmail.com" target="_blank"><img width="130" height="35" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.codewars.com/users/renatozr" target="_blank"><img width="130" height="35" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"></a>
-</div>
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+
+**DevOps**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+
+**Tools**
+
+![Zsh](https://img.shields.io/badge/-Zsh-333333?style=flat&logo=zsh&logoColor=007ACC)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia&logoColor=007ACC)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+
+<br/>
+
+<a href="https://github.com/renatozr" title="Perfil do Renato">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renatozr&theme=react&show_icons=true" />
+</a>
+
+## Get in touch
+
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renatozr11)](https://www.linkedin.com/in/renatozr11)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renatozr07@gmail.com)](mailto:renatozr07@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/renatozr?label=follow&style=social)](https://github.com/renatozr)
