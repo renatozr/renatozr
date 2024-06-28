@@ -23,7 +23,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
-**Operação**
+**Operacional**
 
 ![Terminal](https://img.shields.io/badge/-Terminal-333333?style=flat&logo=windows-terminal)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
