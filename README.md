@@ -1,14 +1,14 @@
 ![](https://komarev.com/ghpvc/?username=renatozr&color=006bed)
 
-## Sobre mim
+## About me
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções em software.
-- 🎓 Estudando Análise e Desenvolvimento de Sistemas no Instituto Infnet.<!-- - 💼 Trabalhando como {stack em que você trabalha} na {empresa}. -->
-- 🌱 Aprendendo mais sobre Next.js e Nest.js.
+- :mag: Exploring new technologies and developing software solutions;
+- 🎓 Studying Systems Analysis and Development at Instituto Infnet;<!-- - 💼 Working as a {position} at {company}; -->
+- 🌱 Learning more about Next.js and Nest.js.
 
-## Competências técnicas
+## Hard skills
 
-**Desenvolvimento**
+**Development**
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logoColor=dodgerblue&logo=css3)
@@ -23,7 +23,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
-**Operacional**
+**Ops**
 
 ![Terminal](https://img.shields.io/badge/-Shell-333333?style=flat&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -31,7 +31,7 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logoColor=ffcd34&logo=firebase)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
-**Ferramentas**
+**Tools**
 
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logoColor=5849BE&logo=insomnia)
@@ -39,11 +39,11 @@
 
 <!-- - <br/>
 
-<a href="https://github.com/renatozr" title="Perfil do Renato">
+<a href="https://github.com/renatozr" title="Renato's profile">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renatozr&theme=react&show_icons=true" />
 </a> -->
 
-## Contatos
+## Contacts
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renatozr11)](https://www.linkedin.com/in/renatozr11)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renatozr07@gmail.com)](mailto:renatozr07@gmail.com)
