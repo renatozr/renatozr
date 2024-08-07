@@ -2,9 +2,9 @@
 
 ## About me
 
-- :mag: Exploring new technologies and developing software solutions;
-- 🎓 Studying Systems Analysis and Development at Instituto Infnet;<!-- - 💼 Working as a {position} at {company}; -->
-- 🌱 Learning more about Next.js and Nest.js.
+- :mag: Exploring new technologies and developing software solutions
+- 🎓 Studying Systems Analysis and Development at Instituto Infnet<!-- - 💼 Working as a {position} at {company} -->
+- 🌱 Learning more about Next.js and Nest.js
 
 ## Hard skills
 
