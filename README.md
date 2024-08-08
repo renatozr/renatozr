@@ -25,7 +25,7 @@
 
 **Ops**
 
-![Terminal](https://img.shields.io/badge/-Shell-333333?style=flat&logo=gnu-bash&logoColor=white)
+![Terminal](https://img.shields.io/badge/-Terminal-333333?style=flat&logo=codecademy&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logoColor=ffcd34&logo=firebase)
