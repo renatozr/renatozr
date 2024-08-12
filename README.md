@@ -1,8 +1,9 @@
-![](https://komarev.com/ghpvc/?username=renatozr&color=006bed)
+<a href="https://github.com/renatozr" title="Renato's Views"><img src="https://komarev.com/ghpvc/?username=renatozr&color=006bed" /></a>
+<a href="https://www.codewars.com/users/renatozr" title="Renato's Codewars Rank"><img src="https://www.codewars.com/users/renatozr/badges/micro" /></a>
 <br />
 <br />
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=renatozr&theme=react&show_icons=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatozr&theme=react&layout=compact" />
+<a href="https://github.com/renatozr" title="Renato's Stats"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=renatozr&theme=react&show_icons=true" /></a>
+<a href="https://github.com/renatozr" title="Renato's Langs"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatozr&theme=react&layout=compact" /></a>
 
 ## About me
 
