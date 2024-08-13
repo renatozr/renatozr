@@ -18,21 +18,11 @@
 - :seedling: Learning more about Next.js and Nest.js
 -->
 
-## Hard skills
+## My skills
 
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logoColor=dodgerblue&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Expo](https://img.shields.io/badge/-Expo-333333?style=flat&logo=expo)
-![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,redux,tailwind,nodejs,express,sequelize,mysql,mongodb,jest,git,supabase,docker,py,bash)](https://skillicons.dev)
 
-## Contacts
+## Contact at
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renatozr11)](https://www.linkedin.com/in/renatozr11)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renatozr07@gmail.com)](mailto:renatozr07@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/renatozr11)
+[![Gmail](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:renatozr07@gmail.com)
