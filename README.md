@@ -20,7 +20,7 @@
 
 ## My skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,redux,tailwind,nodejs,express,sequelize,mysql,mongodb,jest,git,supabase,docker,py,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,redux,tailwind,nodejs,express,sequelize,mysql,mongodb,jest,git,supabase,docker,py,bash,postman)](https://skillicons.dev)
 
 ## Contact at
 
