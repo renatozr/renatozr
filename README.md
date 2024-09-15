@@ -10,7 +10,7 @@
 - :mag: Exploring new technologies and developing software solutions
 - :mortar_board: Studying Systems Analysis and Development at <a href="https://www.infnet.edu.br/infnet/sobre">Instituto Infnet</a>
 - :briefcase: Working as a Full Stack Developer at <a href="https://www.texshipping.com">TEX Shipping</a>
-- :seedling: Learning more about Next.js and Nest.js
+- :seedling: Learning more about Next.js
 
 <!--
 - :mag: Exploring new technologies and developing software solutions
@@ -21,7 +21,7 @@
 
 ## My skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,redux,tailwind,nodejs,express,sequelize,mysql,mongodb,jest,git,supabase,docker,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,redux,tailwind,nodejs,express,mysql,mongodb,jest,git,supabase,docker,postman)](https://skillicons.dev)
 
 ## Contact at
 
