@@ -16,7 +16,7 @@
 - :mag: Exploring new technologies and developing software solutions
 - :mortar_board: Graduated in Systems Analysis and Development at <a href="https://www.infnet.edu.br/infnet/sobre">Instituto Infnet</a>
 - :briefcase: Working as a Full Stack Developer at <a href="https://www.texshipping.com">TEX Shipping</a>
-- :seedling: Learning more about Next.js and Nest.js
+- :seedling: Learning more about Next.js and Docker
 -->
 
 ## My skills
