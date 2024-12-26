@@ -21,7 +21,7 @@
 
 ## My skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,angular,tailwind,nodejs,express,nestjs,mysql,mongodb,jest,git,supabase,docker,postman,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,angular,tailwind,nodejs,express,nestjs,mysql,postgres,mongodb,jest,git,supabase,docker,postman,python)](https://skillicons.dev)
 
 ## Contact at
 
