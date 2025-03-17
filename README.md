@@ -19,7 +19,7 @@
 - :seedling: Learning more about AWS
 -->
 
-## Techs
+## Techs I use
 
 [![Techs](https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,angular,tailwind,nodejs,express,nestjs,mysql,postgres,mongodb,jest,git,supabase,docker,postman,python)](https://skillicons.dev)
 
